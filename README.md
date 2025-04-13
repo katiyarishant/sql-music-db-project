@@ -19,3 +19,5 @@ This is a simple **SQL project** that manages information related to music—lik
 ## 👤 Author
 
 **Ishant Katiyar**  
+📧 [ishantkatiyar68@gmail.com](mailto:ishantkatiyar68@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ishantkatiyar/)
