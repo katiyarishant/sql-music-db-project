@@ -11,17 +11,10 @@ This is a simple **SQL project** that manages information related to music—lik
 
 ## 📁 Files
 
-- `schema.sql` – Table creation queries
+- `db_structure` – Table creation queries
 - `data.sql` – Sample data insert queries
-- `queries.sql` – Select, update, delete queries
+- `queries & solutions` – Select, update, delete queries
 - `README.md` – Project info
-
-## ▶️ How to Run
-
-1. Open MySQL Workbench (or any SQL tool)
-2. Run `schema.sql` to create tables
-3. Run `data.sql` to insert data
-4. Try queries from `queries.sql`
 
 ## 👤 Author
 
