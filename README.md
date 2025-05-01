@@ -1,4 +1,3 @@
-# sql-music-db-project
 # 🎵 Music Database Project (SQL)
 
 This is a simple **SQL project** that manages information related to music—like songs, artists, albums, and playlists. It is designed using **MySQL**.
